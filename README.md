@@ -7,3 +7,4 @@ Les petites fonctionnalités cool sont :
 - On peut remettre à zéro le jeu.
 - On garde en mémoire le dernier coup pour jouer le suivant
 - On peut entrer un résultat pour tester ou bien jouer à deux
+- J'ai mis une icone customisée
