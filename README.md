@@ -8,3 +8,6 @@ Les petites fonctionnalités cool sont :
 - On garde en mémoire le dernier coup pour jouer le suivant
 - On peut entrer un résultat pour tester ou bien jouer à deux
 - J'ai mis une icone customisée
+
+
+J'ai ajouté une capture d'un cas qui ne fonctionnait pas, à la racine 'CAS.png'
