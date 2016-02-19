@@ -10,4 +10,4 @@ Les petites fonctionnalités cool sont :
 - J'ai mis une icone customisée
 
 
-J'ai ajouté une capture d'un cas qui ne fonctionnait pas, à la racine 'CAS.png'
+J'ai ajouté une capture d'un cas qui ne fonctionnait pas, à la racine 'capture_non_fonctionnelle.png'
